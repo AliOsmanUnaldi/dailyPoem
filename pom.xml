@@ -79,6 +79,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>daily-poem</finalName>
 	</build>
 
 </project>
